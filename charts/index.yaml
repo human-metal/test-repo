@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  nginx-docker:
+  - apiVersion: v2
+    created: "2020-10-08T20:44:03.0028879+03:00"
+    digest: bd20e936b9ee4108bc07d30a3327c37179082c8fbdb91aff119d00dddb65ac44
+    name: nginx-docker
+    urls:
+    - nginx-docker-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-10-08T20:44:02.9998877+03:00"
